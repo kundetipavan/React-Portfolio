@@ -8,7 +8,7 @@ const express = require("express");
    const app = express();
 
    app.use(cors({
-    origin: 'https://pavankundeti.netlify.app', // Adjust to your frontend port
+    origin: 'https://pavanu.netlify.app', // Adjust to your frontend port
     methods: ['GET', 'POST'],
     credentials: true
   }));
