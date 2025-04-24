@@ -10,9 +10,9 @@ const Portfolio = () => {
     },
     {
       image: '/food.jpeg',
-       title: "Food Court",
+       title: "indian-team",
        description: "A food web site built with Html,Css.",
-       link: "#",
+       link: "https://cricket21.netlify.app/",
     },
     {
       image: '/coffe.jpeg',
