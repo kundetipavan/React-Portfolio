@@ -6,19 +6,19 @@ const Certificates = () => {
       id: 1,
       title: 'HTML Certificate',
       image: '/pavan html.jpeg',
-      previewLink: 'public/pavan html.jpeg'
+      previewLink: '/pavan html.jpeg'
     },
     {
       id: 2,
       title: 'CSS Certificate',
       image: '/pavan css.jpeg',
-      previewLink: 'public/pavan css.jpeg'
+      previewLink: '/pavan css.jpeg'
     },
     {
       id: 3,
       title: 'REACT Certificate',
       image: '/looma.jpg',
-      previewLink: 'public/looma.jpg'
+      previewLink: '/looma.jpg'
     }
   ];
 
