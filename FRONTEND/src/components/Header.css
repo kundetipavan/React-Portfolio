@@ -83,6 +83,15 @@
     --smaller-font-size: .813rem;
   }
 }
+.nav__link.active-link {
+  color: #ff0000; /* Change to your desired color (e.g., red) */
+  font-weight: bold; /* Optional: make the active link bold */
+}
+
+/* Optional: Add a transition for smooth color change */
+.nav__link {
+  transition: color 0.3s ease;
+}
 
   
   
