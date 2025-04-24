@@ -23,7 +23,7 @@ import React, { useState } from "react";
          setIsLoading(true);
 
          try {
-           const url = `https://react-back-865b.onrender.com/contact`;
+           const url = `https://react-portfolio-backend-rs7v.onrender.com/contact`;
            console.log("Fetching URL:", url);
            console.log("Request Body:", formData);
 
