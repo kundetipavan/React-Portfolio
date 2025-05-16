@@ -172,7 +172,7 @@ const Footer = () => {
             transition={{ duration: 0.5, delay: 0.6 }}
             viewport={{ once: true }}
           >
-            &copy; {currentYear} YourName. All Rights Reserved.
+            &copy; {currentYear} PavanKundeti. All Rights Reserved.
           </motion.p>
         </div>
       </div>
